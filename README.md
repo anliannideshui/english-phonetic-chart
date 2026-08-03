@@ -27,7 +27,11 @@ https://anliannideshui.github.io/english-phonetic-chart/
 
 ## 📱 安卓 APK
 
-本项目已打包为安卓 APK 安装包（离线版）。如需安装包，请联系作者获取，或按下方「打包 APK」说明自行构建。
+本项目已打包为安卓 APK 安装包（离线版，含 44 音素真人录音 + 82 单词发音，完全离线）。
+
+📥 **下载最新版 v1.1**：[GitHub Releases](https://github.com/anliannideshui/english-phonetic-chart/releases)
+
+> 在 Releases 页下载 `英语国际音标_v1.1.apk`，安装到安卓手机即可离线使用。
 
 ## 📁 目录结构
 
