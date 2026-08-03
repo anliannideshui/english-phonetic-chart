@@ -1,0 +1,12 @@
+{
+	"appId": "com.phonics.englishipa",
+	"appName": "英语国际音标",
+	"webDir": "www",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"allowMixedContent": true,
+		"backgroundColor": "#2c3e50"
+	}
+}
