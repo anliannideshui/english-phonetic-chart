@@ -1,0 +1,4 @@
+// No Cordova variables needed - Capacitor only
+ext {
+    cdvPluginPostBuildExtras = []
+}
